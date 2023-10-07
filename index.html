@@ -1,11 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+<html>
+  <head>
+    <title>Data Fetch and Heatmap Example</title>
+  </head>
+  <body>
+    <div
+      id="map"
+      style="height: 750px; width: 100%; margin: 0; padding: 0"
+    ></div>
+    <script>
+      // Initialize the map
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 10,
+          center: { lat: 40.79059982299805, lng: -73.94747924804688 },
+        });
+
+        // Fetch data from the provided URL
+        fetch(
+          'https://data.ny.gov/resource/wujg-7c2s.json?transit_timestamp=2023-07-07T07:00:00.000'
+        )
+          .then((response) => response.json())
+          .then((data) => {
+            // Process and create heatmapData from fetched data
+            var heatmapData = data.map(
+              (item) =>
+                new google.maps.LatLng(
+                  parseFloat(item.latitude),
+                  parseFloat(item.longitude)
+                )
+            );
+
+            // Create a heatmap layer
+            var heatmap = new google.maps.visualization.HeatmapLayer({
+              data: heatmapData,
+              map: map,
+            });
+
+            // Customize heatmap options (e.g., radius and opacity)
+            heatmap.set('radius', 20);
+            heatmap.set('opacity', 0.6);
+          })
+          .catch((error) => {
+            console.error('Error fetching data:', error);
+          });
+      }
+    </script>
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBjcoO3n-kZt9XoWMdLouOoky3dcbPFVM&&libraries=visualization&callback=initMap"
+    ></script>
+  </body>
 </html>
