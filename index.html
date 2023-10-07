@@ -18,28 +18,33 @@
 
         // Fetch data from the provided URL
         fetch(
-          'https://data.ny.gov/resource/wujg-7c2s.json?transit_timestamp=2023-07-07T07:00:00.000'
+          'https://data.ny.gov/resource/wujg-7c2s.json?transit_timestamp=2022-08-14T08:00:00.000'
         )
           .then((response) => response.json())
           .then((data) => {
-            // Process and create heatmapData from fetched data
-            var heatmapData = data.map(
-              (item) =>
-                new google.maps.LatLng(
-                  parseFloat(item.latitude),
-                  parseFloat(item.longitude)
-                )
-            );
+            // Process and create heatmapData with weights from the 'ridership' field
+            var heatmapData = data.map(function (item) {
+              var latitude = parseFloat(item.latitude);
+              var longitude = parseFloat(item.longitude);
+              var ridership = parseFloat(item.ridership);
 
-            // Create a heatmap layer
+              return {
+                location: new google.maps.LatLng(latitude, longitude),
+                weight: ridership, // Use 'ridership' as the weight
+              };
+            });
+
+            // Create a heatmap layer with weights
             var heatmap = new google.maps.visualization.HeatmapLayer({
               data: heatmapData,
               map: map,
             });
 
+            // Set gradient colors (optional)
+
             // Customize heatmap options (e.g., radius and opacity)
             heatmap.set('radius', 20);
-            heatmap.set('opacity', 0.6);
+            heatmap.set('opacity', 1);
           })
           .catch((error) => {
             console.error('Error fetching data:', error);
@@ -49,7 +54,7 @@
     <script
       async
       defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBjcoO3n-kZt9XoWMdLouOoky3dcbPFVM&&libraries=visualization&callback=initMap"
+      src="https://maps.googleapis.com/maps/api/js?key=API_KEY&&libraries=visualization&callback=initMap"
     ></script>
   </body>
 </html>
