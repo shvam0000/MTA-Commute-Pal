@@ -26,6 +26,8 @@
 
 ![Popular Payment Marker Map](./assets/popularpayment.png)
 
+## Heat Map of Stations using a particular Payment method
+
 ![Metro Card Usage Heatmap](./assets/metrocardheatmap.png)
 
 ## The problem MTA Commute Pal solves
