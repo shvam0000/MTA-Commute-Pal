@@ -30,7 +30,7 @@
 > periods of increased ridership. This system will use machine learning to identify patterns in
 > the data that can be used to forecast future ridership levels.
 
-## Features offered by Shikshak
+## Features offered by MTA Commute Pal
 
 - ### **Reduced congestion**
   - By predicting periods of increased ridership, the MTA can run
