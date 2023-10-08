@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Payment Method Heatmap</title>
+  </head>
+  <body>
+    <div style="padding-top: 10px; padding-bottom: 10px">
+      <label for="paymentMethodSelect">Select Payment Method:</label>
+      <select id="paymentMethodSelect" onchange="updateHeatmap()">
+        <option value="1 Day Unlimited">1 Day Unlimited</option>
+        <option value="7 Day Unlimited">7 Day Unlimited</option>
+        <option value="14 Day Unlimited">14 Day Unlimited</option>
+        <option value="30 Day Unlimited">30 Day Unlimited</option>
+        <option value="Transit Check Metrocard Annual Metrocard">
+          Transit Check Metrocard Annual Metrocard
+        </option>
+        <option value="Senior Citizen / Disabled">
+          Senior Citizen / Disabled
+        </option>
+        <!-- Add more payment method options here -->
+      </select>
+    </div>
+    <div
+      id="map"
+      style="height: 750px; width: 100%; margin: 0; padding: 0"
+    ></div>
+    <script>
+      var map;
+      var heatmap;
+      var data;
+
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 13,
+          center: { lat: 40.79059982299805, lng: -73.94747924804688 },
+        });
+
+        // Fetch data from your JSON file
+        fetch('./metrocardheatmap.json')
+          .then((response) => response.json())
+          .then((jsonData) => {
+            data = jsonData;
+            updateHeatmap(); // Initial heatmap
+          })
+          .catch((error) => {
+            console.error('Error fetching data:', error);
+          });
+      }
+
+      function updateHeatmap() {
+        if (heatmap) {
+          heatmap.setMap(null);
+        }
+
+        var selectedPaymentMethod = document.getElementById(
+          'paymentMethodSelect'
+        ).value;
+        var methodData = data[selectedPaymentMethod];
+
+        var heatmapData = [];
+
+        for (var locationKey in methodData) {
+          if (methodData.hasOwnProperty(locationKey)) {
+            var location = methodData[locationKey];
+            var latitude = location.latitude;
+            var longitude = location.longitude;
+            var weight = location.count;
+
+            heatmapData.push({
+              location: new google.maps.LatLng(latitude, longitude),
+              weight: weight,
+            });
+          }
+        }
+
+        heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData,
+          map: map,
+        });
+
+        heatmap.set('radius', 40);
+        heatmap.set('opacity', 0.8);
+      }
+    </script>
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBjcoO3n-kZt9XoWMdLouOoky3dcbPFVM&libraries=visualization&callback=initMap"
+    ></script>
+  </body>
+</html>
