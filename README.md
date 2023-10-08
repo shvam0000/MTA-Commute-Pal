@@ -2,7 +2,11 @@
 
 # **MTA Commute Pal** - Columbia Data Science Society Datathon Fall 2023
 
-# [Popular Payment Marker Map](https://6522672083e18d0ec8facd3d--funny-beignet-c1dda2.netlify.app/)
+# Visualization Links
+
+### 01. [Popular Payment Marker Map](https://6522672083e18d0ec8facd3d--funny-beignet-c1dda2.netlify.app/)
+
+### 02. [Metro Card Payment Heatmap](https://652276617dda7a199bba71aa--coruscating-choux-fa808e.netlify.app/)
 
 ### Subway Commute made Better.
 
@@ -16,11 +20,13 @@
 
 ## Heatmap of 24 hours of live Rider Count
 
-![Calibration Screenshot](./assets/livedata.gif)
+![Rider Count HeatMap](./assets/livedata.gif)
 
 ## Marker Map of Most Popular Payment Methods at a Station
 
-![Calibration Screenshot](./assets/popularpayment.png)
+![Popular Payment Marker Map](./assets/popularpayment.png)
+
+![Metro Card Usage Heatmap](./assets/metrocardheatmap.png)
 
 ## The problem MTA Commute Pal solves
 
