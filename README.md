@@ -18,6 +18,10 @@
 
 ![Calibration Screenshot](./assets/livedata.gif)
 
+## Marker Map of Most Popular Payment Methods at a Station
+
+![Calibration Screenshot](./assets/popularpayment.png)
+
 ## The problem MTA Commute Pal solves
 
 > The New York City subway system is one of the busiest in the world, with over 5 million
