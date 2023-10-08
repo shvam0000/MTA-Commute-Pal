@@ -1,23 +1,18 @@
 import pandas as pd
 import requests
-import json
 
-# Load the ridership data from the JSON URL
-ridership_url = "https://data.ny.gov/resource/wujg-7c2s.json"
-ridership_data = pd.read_json(ridership_url)
+# Load the dataset from the JSON URL
+data_url = "https://data.ny.gov/resource/v7qc-gwpn.json"
+data = pd.read_json(data_url)
 
-# Group the data by station ID and payment method, and calculate total ridership
-grouped_data = ridership_data.groupby(['station_complex_id', 'payment_method'])['ridership'].sum().reset_index()
+# Group the data by the 'station' column and calculate the sum of integer-type columns
+grouped_data = data.groupby('remote_station_id').sum(numeric_only=True)
 
-# Find the payment method with the highest ridership for each station ID
-most_popular_payment = grouped_data.groupby('station_complex_id')['ridership'].idxmax()
-most_popular_payment_data = grouped_data.loc[most_popular_payment]
+# Find the column with the highest sum for each station type
+highest_value_column = grouped_data.idxmax(axis=1)
 
-# Convert the result to a JSON format and save it to a file
-result_json = most_popular_payment_data.to_json(orient='records', indent=4)
+print(highest_value_column)
+# Determine the most popular station type
+most_popular_station_type = highest_value_column.value_counts().idxmax()
 
-# Save the JSON data to a file (you can change the filename as needed)
-with open('most_popular_payment.json', 'w') as json_file:
-    json_file.write(result_json)
-
-print("Most Popular Payment Method for Each Station ID saved as 'most_popular_payment.json'")
+print("Most Popular Station Type:", most_popular_station_type)
