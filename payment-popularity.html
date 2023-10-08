@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Map with Markers from JSON Data</title>
+    <title>Map with Markers and Popups from JSON Data</title>
   </head>
   <body>
     <div
@@ -12,8 +12,8 @@
       // Initialize the map
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 10,
-          center: { lat: 40.703086853027344, lng: -74.01299285888672 },
+          zoom: 12,
+          center: { lat: 40.79059982299805, lng: -73.94747924804688 },
         });
 
         // Fetch data from your JSON file (local or remote)
@@ -26,12 +26,31 @@
                 var item = data[key];
                 var latitude = parseFloat(item.latitude);
                 var longitude = parseFloat(item.longitude);
+                var value0 = item[0];
+                var value1 = item[1];
+                var value2 = item[2];
 
                 // Create a marker for each location
                 var marker = new google.maps.Marker({
                   position: new google.maps.LatLng(latitude, longitude),
                   map: map,
                   title: key, // Use a key from the JSON data as a title
+                });
+
+                // Create an InfoWindow for the popup
+                var infoWindow = new google.maps.InfoWindow({
+                  content:
+                    '1: ' + value0 + '<br>2: ' + value1 + '<br>3: ' + value2,
+                });
+
+                // Add a mouseover event listener to the marker to show the InfoWindow on hover
+                marker.addListener('mouseover', function () {
+                  infoWindow.open(map, this); // "this" refers to the current marker
+                });
+
+                // Add a mouseout event listener to close the InfoWindow on mouseout
+                marker.addListener('mouseout', function () {
+                  infoWindow.close();
                 });
               }
             }
