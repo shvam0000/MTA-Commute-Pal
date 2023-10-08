@@ -1,1 +1,1192 @@
-{"R001": {"_7_day_unlimited": 36601, "_30_day_unlimited": 18491, "senior_citizen_disabled": 5202}, "R003": {"_7_day_unlimited": 2653, "_30_day_unlimited": 1325, "senior_citizen_disabled": 351}, "R004": {"_7_day_unlimited": 6237, "_30_day_unlimited": 3137, "senior_citizen_disabled": 1001}, "R005": {"_7_day_unlimited": 6358, "_30_day_unlimited": 3458, "senior_citizen_disabled": 1165}, "R006": {"_7_day_unlimited": 9365, "_30_day_unlimited": 4775, "senior_citizen_disabled": 990}, "R007": {"_7_day_unlimited": 4961, "_30_day_unlimited": 2549, "senior_citizen_disabled": 712}, "R008": {"_7_day_unlimited": 3754, "_30_day_unlimited": 1976, "senior_citizen_disabled": 475}, "R009": {"_7_day_unlimited": 3885, "_30_day_unlimited": 1960, "senior_citizen_disabled": 504}, "R010": {"_7_day_unlimited": 46139, "_30_day_unlimited": 25788, "senior_citizen_disabled": 6721}, "R011": {"_7_day_unlimited": 54572, "_30_day_unlimited": 46369, "senior_citizen_disabled": 16216}, "R012": {"_7_day_unlimited": 46241, "_30_day_unlimited": 37551, "senior_citizen_disabled": 13439}, "R013": {"_7_day_unlimited": 23266, "_30_day_unlimited": 16251, "senior_citizen_disabled": 3711}, "R014": {"_7_day_unlimited": 44853, "_30_day_unlimited": 35691, "senior_citizen_disabled": 7844}, "R015": {"_7_day_unlimited": 15801, "_30_day_unlimited": 14682, "senior_citizen_disabled": 3993}, "R016": {"_30_day_unlimited": 4659, "_7_day_unlimited": 4264, "senior_citizen_disabled": 1094}, "R017": {"_30_day_unlimited": 27088, "_7_day_unlimited": 25179, "senior_citizen_disabled": 7067}, "R018": {"_7_day_unlimited": 106021, "_30_day_unlimited": 91902, "senior_citizen_disabled": 18036}, "R019": {"_7_day_unlimited": 27337, "_30_day_unlimited": 22617, "senior_citizen_disabled": 3549}, "R020": {"_7_day_unlimited": 45460, "_30_day_unlimited": 41493, "senior_citizen_disabled": 13136}, "R021": {"_7_day_unlimited": 34155, "_30_day_unlimited": 32417, "senior_citizen_disabled": 6809}, "R022": {"_7_day_unlimited": 77948, "_30_day_unlimited": 63170, "senior_citizen_disabled": 16912}, "R023": {"_30_day_unlimited": 43359, "_7_day_unlimited": 38667, "senior_citizen_disabled": 10044}, "R024": {"_7_day_unlimited": 40113, "_30_day_unlimited": 22427, "mail_and_ride_easy_pay_express": 19740}, "R025": {"_7_day_unlimited": 56677, "_30_day_unlimited": 29728, "transit_check_metrocard": 3527}, "R027": {"_30_day_unlimited": 13562, "_7_day_unlimited": 12593, "senior_citizen_disabled": 2937}, "R028": {"_7_day_unlimited": 21546, "_30_day_unlimited": 20570, "senior_citizen_disabled": 5596}, "R029": {"_7_day_unlimited": 31651, "_30_day_unlimited": 28144, "senior_citizen_disabled": 7569}, "R030": {"_30_day_unlimited": 13235, "_7_day_unlimited": 12639, "senior_citizen_disabled": 3924}, "R031": {"_7_day_unlimited": 21691, "_30_day_unlimited": 18164, "senior_citizen_disabled": 7919}, "R032": {"_7_day_unlimited": 41342, "_30_day_unlimited": 38791, "senior_citizen_disabled": 7297}, "R033": {"_7_day_unlimited": 61970, "_30_day_unlimited": 31426, "senior_citizen_disabled": 8810}, "R034": {"_7_day_unlimited": 9819, "_30_day_unlimited": 8207, "senior_citizen_disabled": 2759}, "R035": {"_7_day_unlimited": 30420, "_30_day_unlimited": 30167, "senior_citizen_disabled": 7717}, "R036": {"_7_day_unlimited": 13310, "_30_day_unlimited": 7633, "senior_citizen_disabled": 3709}, "R037": {"_7_day_unlimited": 13792, "_30_day_unlimited": 6821, "senior_citizen_disabled": 1990}, "R038": {"_30_day_unlimited": 1948, "_7_day_unlimited": 1945, "senior_citizen_disabled": 779}, "R039": {"_7_day_unlimited": 8787, "_30_day_unlimited": 5108, "senior_citizen_disabled": 1702}, "R040": {"_7_day_unlimited": 14602, "_30_day_unlimited": 10717, "senior_citizen_disabled": 4204}, "R041": {"_7_day_unlimited": 17466, "_30_day_unlimited": 12155, "senior_citizen_disabled": 3812}, "R042": {"_7_day_unlimited": 7304, "_30_day_unlimited": 2945, "senior_citizen_disabled": 832}, "R043": {"_7_day_unlimited": 13363, "_30_day_unlimited": 12836, "senior_citizen_disabled": 2494}, "R044": {"_7_day_unlimited": 23501, "_30_day_unlimited": 20400, "senior_citizen_disabled": 6359}, "R045": {"_30_day_unlimited": 6946, "_7_day_unlimited": 6376, "senior_citizen_disabled": 3185}, "R046": {"_7_day_unlimited": 47790, "_30_day_unlimited": 42548, "senior_citizen_disabled": 13146}, "R047": {"_30_day_unlimited": 28890, "_7_day_unlimited": 27826, "senior_citizen_disabled": 6862}, "R048": {"_30_day_unlimited": 9231, "_7_day_unlimited": 7189, "senior_citizen_disabled": 2017}, "R049": {"_7_day_unlimited": 15952, "_30_day_unlimited": 13678, "senior_citizen_disabled": 3121}, "R050": {"_30_day_unlimited": 19910, "_7_day_unlimited": 18493, "senior_citizen_disabled": 4773}, "R051": {"_7_day_unlimited": 42881, "_30_day_unlimited": 36645, "senior_citizen_disabled": 7703}, "R052": {"_7_day_unlimited": 12913, "_30_day_unlimited": 6363, "senior_citizen_disabled": 1125}, "R053": {"_7_day_unlimited": 40919, "_30_day_unlimited": 20440, "senior_citizen_disabled": 4357}, "R054": {"_7_day_unlimited": 13423, "_30_day_unlimited": 12658, "senior_citizen_disabled": 2486}, "R055": {"_7_day_unlimited": 89327, "_30_day_unlimited": 88001, "senior_citizen_disabled": 18606}, "R056": {"_7_day_unlimited": 10676, "_30_day_unlimited": 8907, "senior_citizen_disabled": 2756}, "R057": {"_7_day_unlimited": 46465, "_30_day_unlimited": 40898, "senior_citizen_disabled": 11254}, "R058": {"_7_day_unlimited": 3364, "_30_day_unlimited": 3339, "senior_citizen_disabled": 831}, "R059": {"_30_day_unlimited": 6466, "_7_day_unlimited": 5531, "senior_citizen_disabled": 3176}, "R060": {"_7_day_unlimited": 4629, "_30_day_unlimited": 4074, "senior_citizen_disabled": 1756}, "R061": {"_7_day_unlimited": 5609, "_30_day_unlimited": 3844, "airtrain_30_day": 1225}, "R062": {"_7_day_unlimited": 38611, "_30_day_unlimited": 26905, "senior_citizen_disabled": 6405}, "R063": {"_7_day_unlimited": 10633, "_30_day_unlimited": 6634, "senior_citizen_disabled": 1950}, "R064": {"_7_day_unlimited": 8603, "_30_day_unlimited": 5928, "senior_citizen_disabled": 1577}, "R065": {"_7_day_unlimited": 7063, "_30_day_unlimited": 4028, "senior_citizen_disabled": 2346}, "R066": {"_7_day_unlimited": 2724, "_30_day_unlimited": 1439, "senior_citizen_disabled": 597}, "R067": {"_7_day_unlimited": 5157, "_30_day_unlimited": 2738, "senior_citizen_disabled": 763}, "R068": {"_7_day_unlimited": 3049, "_30_day_unlimited": 1570, "senior_citizen_disabled": 648}, "R069": {"_7_day_unlimited": 6399, "_30_day_unlimited": 3616, "senior_citizen_disabled": 856}, "R070": {"_30_day_unlimited": 3716, "_7_day_unlimited": 2855, "senior_citizen_disabled": 1460}, "R072": {"_7_day_unlimited": 21415, "_30_day_unlimited": 11752, "senior_citizen_disabled": 2028}, "R079": {"_7_day_unlimited": 13257, "_30_day_unlimited": 11100, "senior_citizen_disabled": 2838}, "R080": {"_7_day_unlimited": 24449, "_30_day_unlimited": 23951, "senior_citizen_disabled": 5345}, "R081": {"_7_day_unlimited": 21762, "_30_day_unlimited": 12051, "senior_citizen_disabled": 2292}, "R082": {"_7_day_unlimited": 10256, "_30_day_unlimited": 7847, "senior_citizen_disabled": 1082}, "R083": {"_7_day_unlimited": 17631, "_30_day_unlimited": 11971, "senior_citizen_disabled": 2617}, "R084": {"_7_day_unlimited": 50709, "_30_day_unlimited": 43924, "senior_citizen_disabled": 13221}, "R085": {"_7_day_unlimited": 10457, "_30_day_unlimited": 9087, "senior_citizen_disabled": 2131}, "R086": {"_7_day_unlimited": 11298, "_30_day_unlimited": 7860, "senior_citizen_disabled": 1357}, "R087": {"_30_day_unlimited": 3425, "_7_day_unlimited": 3178, "senior_citizen_disabled": 1069}, "R088": {"_7_day_unlimited": 11393, "_30_day_unlimited": 7644, "senior_citizen_disabled": 1649}, "R089": {"_30_day_unlimited": 2036, "_7_day_unlimited": 1826, "senior_citizen_disabled": 471}, "R090": {"_7_day_unlimited": 3340, "_30_day_unlimited": 2400, "senior_citizen_disabled": 474}, "R091": {"_7_day_unlimited": 6344, "_30_day_unlimited": 6231, "senior_citizen_disabled": 1314}, "R092": {"_30_day_unlimited": 11295, "_7_day_unlimited": 9858, "senior_citizen_disabled": 2568}, "R093": {"_30_day_unlimited": 12023, "_7_day_unlimited": 11893, "senior_citizen_disabled": 2411}, "R094": {"_7_day_unlimited": 9537, "_30_day_unlimited": 8144, "senior_citizen_disabled": 1262}, "R095": {"_30_day_unlimited": 12250, "_7_day_unlimited": 11951, "senior_citizen_disabled": 2611}, "R096": {"_7_day_unlimited": 31484, "_30_day_unlimited": 15715, "senior_citizen_disabled": 5437}, "R097": {"_7_day_unlimited": 60303, "_30_day_unlimited": 16375, "senior_citizen_disabled": 3049}, "R098": {"_7_day_unlimited": 17720, "_30_day_unlimited": 13797, "senior_citizen_disabled": 3377}, "R099": {"_30_day_unlimited": 15844, "_7_day_unlimited": 13099, "senior_citizen_disabled": 3201}, "R100": {"_7_day_unlimited": 3523, "_30_day_unlimited": 2880, "senior_citizen_disabled": 506}, "R101": {"_7_day_unlimited": 27017, "_30_day_unlimited": 19714, "senior_citizen_disabled": 3302}, "R102": {"_7_day_unlimited": 30169, "_30_day_unlimited": 21255, "senior_citizen_disabled": 4932}, "R103": {"_7_day_unlimited": 11001, "_30_day_unlimited": 5657, "senior_citizen_disabled": 1094}, "R104": {"_7_day_unlimited": 12808, "_30_day_unlimited": 6151, "senior_citizen_disabled": 1354}, "R105": {"_7_day_unlimited": 17784, "_30_day_unlimited": 15718, "senior_citizen_disabled": 5968}, "R106": {"_7_day_unlimited": 7766, "_30_day_unlimited": 4590, "senior_citizen_disabled": 1031}, "R107": {"_7_day_unlimited": 6101, "_30_day_unlimited": 3919, "senior_citizen_disabled": 930}, "R108": {"_30_day_unlimited": 16829, "_7_day_unlimited": 15639, "senior_citizen_disabled": 6808}, "R109": {"_7_day_unlimited": 10483, "_30_day_unlimited": 7122, "senior_citizen_disabled": 2066}, "R110": {"_7_day_unlimited": 16426, "_30_day_unlimited": 11873, "senior_citizen_disabled": 2825}, "R111": {"_7_day_unlimited": 16627, "_30_day_unlimited": 15447, "senior_citizen_disabled": 4954}, "R112": {"_7_day_unlimited": 15927, "_30_day_unlimited": 6895, "senior_citizen_disabled": 1549}, "R113": {"_7_day_unlimited": 13185, "_30_day_unlimited": 8025, "senior_citizen_disabled": 1626}, "R114": {"_7_day_unlimited": 8756, "_30_day_unlimited": 5554, "senior_citizen_disabled": 972}, "R115": {"_7_day_unlimited": 7953, "_30_day_unlimited": 6568, "senior_citizen_disabled": 1549}, "R116": {"_7_day_unlimited": 15460, "_30_day_unlimited": 10189, "senior_citizen_disabled": 2835}, "R117": {"_7_day_unlimited": 7806, "_30_day_unlimited": 3970, "senior_citizen_disabled": 828}, "R118": {"_30_day_unlimited": 13415, "senior_citizen_disabled": 4964, "_7_day_unlimited": 4932}, "R119": {"_7_day_unlimited": 17471, "_30_day_unlimited": 6957, "senior_citizen_disabled": 1735}, "R120": {"_7_day_unlimited": 10342, "_30_day_unlimited": 3653, "senior_citizen_disabled": 898}, "R121": {"_7_day_unlimited": 12456, "_30_day_unlimited": 11533, "senior_citizen_disabled": 1066}, "R122": {"_7_day_unlimited": 34504, "_30_day_unlimited": 15884, "senior_citizen_disabled": 4194}, "R123": {"_7_day_unlimited": 10566, "_30_day_unlimited": 10070, "senior_citizen_disabled": 2431}, "R124": {"_7_day_unlimited": 4179, "_30_day_unlimited": 2748, "senior_citizen_disabled": 1319}, "R125": {"_7_day_unlimited": 4493, "_30_day_unlimited": 3530, "senior_citizen_disabled": 609}, "R126": {"_7_day_unlimited": 12438, "_30_day_unlimited": 8556, "senior_citizen_disabled": 3382}, "R127": {"_7_day_unlimited": 18905, "_30_day_unlimited": 17907, "senior_citizen_disabled": 4952}, "R128": {"_7_day_unlimited": 5286, "_30_day_unlimited": 3442, "senior_citizen_disabled": 916}, "R129": {"_30_day_unlimited": 7511, "_7_day_unlimited": 7037, "senior_citizen_disabled": 1956}, "R130": {"_30_day_unlimited": 2655, "_7_day_unlimited": 2476, "senior_citizen_disabled": 854}, "R131": {"_7_day_unlimited": 14650, "_30_day_unlimited": 13497, "senior_citizen_disabled": 3704}, "R132": {"_7_day_unlimited": 26523, "_30_day_unlimited": 17085, "senior_citizen_disabled": 4587}, "R133": {"_7_day_unlimited": 10328, "_30_day_unlimited": 7215, "senior_citizen_disabled": 1673}, "R134": {"_7_day_unlimited": 4363, "_30_day_unlimited": 3542, "transit_check_metrocard": 1330}, "R135": {"_7_day_unlimited": 8179, "_30_day_unlimited": 5441, "senior_citizen_disabled": 1780}, "R136": {"_30_day_unlimited": 12249, "_7_day_unlimited": 8085, "senior_citizen_disabled": 4236}, "R137": {"_7_day_unlimited": 24551, "_30_day_unlimited": 16681, "senior_citizen_disabled": 2169}, "R138": {"_7_day_unlimited": 33922, "_30_day_unlimited": 27341, "senior_citizen_disabled": 6872}, "R139": {"_7_day_unlimited": 12817, "_30_day_unlimited": 10781, "senior_citizen_disabled": 2366}, "R140": {"_30_day_unlimited": 9485, "_7_day_unlimited": 8426, "senior_citizen_disabled": 1043}, "R141": {"_30_day_unlimited": 21099, "_7_day_unlimited": 18839, "senior_citizen_disabled": 7471}, "R142": {"_7_day_unlimited": 23459, "_30_day_unlimited": 21282, "senior_citizen_disabled": 4659}, "R143": {"_7_day_unlimited": 13598, "_30_day_unlimited": 12241, "senior_citizen_disabled": 3055}, "R144": {"_30_day_unlimited": 13957, "_7_day_unlimited": 12416, "senior_citizen_disabled": 3533}, "R145": {"_7_day_unlimited": 6182, "_30_day_unlimited": 2814, "senior_citizen_disabled": 755}, "R146": {"_7_day_unlimited": 14620, "_30_day_unlimited": 6716, "senior_citizen_disabled": 1479}, "R147": {"_7_day_unlimited": 22193, "_30_day_unlimited": 18562, "senior_citizen_disabled": 4160}, "R148": {"_7_day_unlimited": 6577, "_30_day_unlimited": 5797, "senior_citizen_disabled": 1303}, "R149": {"_30_day_unlimited": 9602, "_7_day_unlimited": 9513, "senior_citizen_disabled": 2769}, "R150": {"_30_day_unlimited": 8481, "_7_day_unlimited": 5576, "senior_citizen_disabled": 2342}, "R151": {"_7_day_unlimited": 18727, "_30_day_unlimited": 12699, "senior_citizen_disabled": 4531}, "R152": {"_7_day_unlimited": 8690, "_30_day_unlimited": 5396, "senior_citizen_disabled": 1327}, "R153": {"_7_day_unlimited": 15264, "_30_day_unlimited": 10297, "senior_citizen_disabled": 1744}, "R154": {"_7_day_unlimited": 13261, "_30_day_unlimited": 5888, "senior_citizen_disabled": 1334}, "R155": {"_7_day_unlimited": 10256, "_30_day_unlimited": 4863, "senior_citizen_disabled": 1083}, "R156": {"_7_day_unlimited": 8623, "_30_day_unlimited": 5115, "senior_citizen_disabled": 1140}, "R157": {"_7_day_unlimited": 10610, "_30_day_unlimited": 6114, "senior_citizen_disabled": 1304}, "R158": {"_30_day_unlimited": 21563, "_7_day_unlimited": 21067, "senior_citizen_disabled": 4075}, "R159": {"_30_day_unlimited": 6498, "_7_day_unlimited": 5537, "senior_citizen_disabled": 1802}, "R160": {"_7_day_unlimited": 10302, "_30_day_unlimited": 9596, "senior_citizen_disabled": 2315}, "R161": {"_7_day_unlimited": 13255, "_30_day_unlimited": 6320, "senior_citizen_disabled": 1387}, "R162": {"_7_day_unlimited": 11530, "_30_day_unlimited": 3851, "senior_citizen_disabled": 781}, "R163": {"_7_day_unlimited": 13946, "_30_day_unlimited": 13636, "senior_citizen_disabled": 3611}, "R164": {"_30_day_unlimited": 10954, "_7_day_unlimited": 10414, "senior_citizen_disabled": 4683}, "R165": {"_7_day_unlimited": 630, "_30_day_unlimited": 163, "senior_citizen_disabled": 118}, "R166": {"_7_day_unlimited": 11888, "_30_day_unlimited": 10869, "senior_citizen_disabled": 4532}, "R167": {"_7_day_unlimited": 13632, "_30_day_unlimited": 13488, "senior_citizen_disabled": 5700}, "R168": {"_30_day_unlimited": 29309, "_7_day_unlimited": 28833, "senior_citizen_disabled": 13095}, "R169": {"_7_day_unlimited": 14199, "_30_day_unlimited": 10421, "senior_citizen_disabled": 2616}, "R170": {"_7_day_unlimited": 70023, "_30_day_unlimited": 63657, "senior_citizen_disabled": 17440}, "R171": {"_30_day_unlimited": 6557, "_7_day_unlimited": 4556, "senior_citizen_disabled": 2014}, "R172": {"_30_day_unlimited": 12018, "_7_day_unlimited": 10040, "senior_citizen_disabled": 5862}, "R173": {"_7_day_unlimited": 8707, "_30_day_unlimited": 7047, "senior_citizen_disabled": 2421}, "R174": {"_7_day_unlimited": 11995, "_30_day_unlimited": 10910, "senior_citizen_disabled": 4521}, "R175": {"_7_day_unlimited": 40196, "_30_day_unlimited": 28633, "senior_citizen_disabled": 6424}, "R176": {"_30_day_unlimited": 18392, "_7_day_unlimited": 18037, "senior_citizen_disabled": 4438}, "R177": {"_30_day_unlimited": 13514, "_7_day_unlimited": 13286, "senior_citizen_disabled": 4132}, "R178": {"_7_day_unlimited": 20853, "_30_day_unlimited": 19385, "senior_citizen_disabled": 6493}, "R179": {"_7_day_unlimited": 38777, "_30_day_unlimited": 33692, "senior_citizen_disabled": 9316}, "R180": {"_7_day_unlimited": 12811, "_30_day_unlimited": 10464, "senior_citizen_disabled": 2970}, "R181": {"_7_day_unlimited": 11490, "_30_day_unlimited": 8395, "senior_citizen_disabled": 2264}, "R182": {"_7_day_unlimited": 17141, "_30_day_unlimited": 10387, "senior_citizen_disabled": 2863}, "R183": {"_7_day_unlimited": 5916, "_30_day_unlimited": 3339, "airtrain_30_day": 697}, "R184": {"_30_day_unlimited": 5648, "_7_day_unlimited": 5541, "senior_citizen_disabled": 1524}, "R185": {"_7_day_unlimited": 7012, "_30_day_unlimited": 5610, "senior_citizen_disabled": 1834}, "R186": {"_7_day_unlimited": 7941, "_30_day_unlimited": 7710, "senior_citizen_disabled": 2486}, "R187": {"_7_day_unlimited": 14335, "_30_day_unlimited": 7989, "senior_citizen_disabled": 2507}, "R188": {"_7_day_unlimited": 20384, "_30_day_unlimited": 12608, "senior_citizen_disabled": 2918}, "R189": {"_7_day_unlimited": 9666, "_30_day_unlimited": 6531, "senior_citizen_disabled": 2552}, "R190": {"_7_day_unlimited": 10509, "_30_day_unlimited": 8885, "senior_citizen_disabled": 3381}, "R191": {"_7_day_unlimited": 11022, "_30_day_unlimited": 10152, "senior_citizen_disabled": 5210}, "R192": {"_7_day_unlimited": 9743, "_30_day_unlimited": 9212, "senior_citizen_disabled": 4065}, "R193": {"_7_day_unlimited": 15122, "_30_day_unlimited": 9504, "senior_citizen_disabled": 3074}, "R194": {"_7_day_unlimited": 12522, "_30_day_unlimited": 10208, "senior_citizen_disabled": 1803}, "R195": {"_7_day_unlimited": 36778, "_30_day_unlimited": 17753, "senior_citizen_disabled": 5126}, "R196": {"_7_day_unlimited": 9428, "_30_day_unlimited": 8606, "senior_citizen_disabled": 2274}, "R197": {"_7_day_unlimited": 15227, "_30_day_unlimited": 13887, "senior_citizen_disabled": 2502}, "R198": {"_7_day_unlimited": 16924, "_30_day_unlimited": 11695, "senior_citizen_disabled": 2338}, "R199": {"_7_day_unlimited": 5460, "_30_day_unlimited": 4195, "senior_citizen_disabled": 751}, "R200": {"_7_day_unlimited": 10294, "_30_day_unlimited": 6552, "senior_citizen_disabled": 1583}, "R201": {"_7_day_unlimited": 22053, "_30_day_unlimited": 18523, "senior_citizen_disabled": 4320}, "R202": {"_30_day_unlimited": 15141, "_7_day_unlimited": 12364, "senior_citizen_disabled": 6923}, "R203": {"_7_day_unlimited": 11148, "_30_day_unlimited": 10286, "senior_citizen_disabled": 2569}, "R204": {"_7_day_unlimited": 9580, "_30_day_unlimited": 7998, "senior_citizen_disabled": 2393}, "R205": {"_7_day_unlimited": 13710, "_30_day_unlimited": 8228, "transit_check_metrocard": 2978}, "R206": {"_7_day_unlimited": 15211, "_30_day_unlimited": 10299, "senior_citizen_disabled": 2714}, "R207": {"_7_day_unlimited": 13777, "_30_day_unlimited": 10591, "senior_citizen_disabled": 3251}, "R208": {"_7_day_unlimited": 53668, "_30_day_unlimited": 13018, "senior_citizen_disabled": 2285}, "R209": {"_7_day_unlimited": 5525, "_30_day_unlimited": 4012, "senior_citizen_disabled": 1640}, "R210": {"_7_day_unlimited": 4436, "_30_day_unlimited": 3027, "senior_citizen_disabled": 1086}, "R211": {"_30_day_unlimited": 19024, "_7_day_unlimited": 14560, "senior_citizen_disabled": 5874}, "R212": {"_7_day_unlimited": 14674, "_30_day_unlimited": 11607, "senior_citizen_disabled": 2709}, "R213": {"_7_day_unlimited": 6355, "_30_day_unlimited": 6131, "senior_citizen_disabled": 1827}, "R214": {"_30_day_unlimited": 4173, "_7_day_unlimited": 3791, "senior_citizen_disabled": 1548}, "R215": {"_30_day_unlimited": 10463, "_7_day_unlimited": 10086, "senior_citizen_disabled": 1830}, "R216": {"_30_day_unlimited": 4841, "_7_day_unlimited": 3591, "senior_citizen_disabled": 1711}, "R217": {"_7_day_unlimited": 8647, "_30_day_unlimited": 7394, "senior_citizen_disabled": 1459}, "R218": {"_30_day_unlimited": 18455, "_7_day_unlimited": 12949, "senior_citizen_disabled": 4285}, "R219": {"_30_day_unlimited": 7405, "_7_day_unlimited": 4738, "senior_citizen_disabled": 3256}, "R220": {"_30_day_unlimited": 7255, "_7_day_unlimited": 7150, "senior_citizen_disabled": 1832}, "R221": {"_7_day_unlimited": 15671, "_30_day_unlimited": 7397, "senior_citizen_disabled": 1348}, "R222": {"_7_day_unlimited": 16109, "_30_day_unlimited": 11633, "senior_citizen_disabled": 3188}, "R223": {"_7_day_unlimited": 17152, "_30_day_unlimited": 13670, "senior_citizen_disabled": 3243}, "R224": {"_7_day_unlimited": 4508, "_30_day_unlimited": 4207, "senior_citizen_disabled": 1749}, "R225": {"_7_day_unlimited": 4229, "_30_day_unlimited": 3312, "senior_citizen_disabled": 1064}, "R226": {"_7_day_unlimited": 5148, "_30_day_unlimited": 2869, "senior_citizen_disabled": 895}, "R227": {"_7_day_unlimited": 3856, "_30_day_unlimited": 3209, "senior_citizen_disabled": 673}, "R228": {"_30_day_unlimited": 6078, "_7_day_unlimited": 5816, "senior_citizen_disabled": 1490}, "R229": {"_30_day_unlimited": 5071, "_7_day_unlimited": 4727, "senior_citizen_disabled": 1773}, "R230": {"_30_day_unlimited": 5149, "_7_day_unlimited": 2094, "senior_citizen_disabled": 1884}, "R231": {"_7_day_unlimited": 5781, "_30_day_unlimited": 5281, "senior_citizen_disabled": 1389}, "R232": {"_7_day_unlimited": 9206, "_30_day_unlimited": 6066, "senior_citizen_disabled": 1554}, "R233": {"_7_day_unlimited": 11327, "_30_day_unlimited": 7489, "senior_citizen_disabled": 1896}, "R234": {"_7_day_unlimited": 3141, "_30_day_unlimited": 2610, "senior_citizen_disabled": 1133}, "R235": {"_7_day_unlimited": 21836, "_30_day_unlimited": 21118, "senior_citizen_disabled": 2004}, "R236": {"_7_day_unlimited": 13346, "_30_day_unlimited": 9874, "senior_citizen_disabled": 1294}, "R237": {"_7_day_unlimited": 6383, "_30_day_unlimited": 2707, "senior_citizen_disabled": 877}, "R238": {"_7_day_unlimited": 13505, "_30_day_unlimited": 12784, "senior_citizen_disabled": 2478}, "R239": {"_7_day_unlimited": 9543, "_30_day_unlimited": 8191, "senior_citizen_disabled": 1981}, "R240": {"_30_day_unlimited": 29327, "senior_citizen_disabled": 13991, "_7_day_unlimited": 12410}, "R241": {"_30_day_unlimited": 4057, "_7_day_unlimited": 3564, "senior_citizen_disabled": 1392}, "R242": {"_7_day_unlimited": 2825, "_30_day_unlimited": 2262, "senior_citizen_disabled": 902}, "R243": {"_7_day_unlimited": 11721, "_30_day_unlimited": 5217, "senior_citizen_disabled": 1093}, "R244": {"_7_day_unlimited": 14428, "_30_day_unlimited": 6079, "senior_citizen_disabled": 1563}, "R245": {"_7_day_unlimited": 6232, "_30_day_unlimited": 2378, "senior_citizen_disabled": 661}, "R246": {"_7_day_unlimited": 4528, "_30_day_unlimited": 4523, "senior_citizen_disabled": 835}, "R247": {"_7_day_unlimited": 2131, "_30_day_unlimited": 1328, "senior_citizen_disabled": 739}, "R248": {"_30_day_unlimited": 18054, "_7_day_unlimited": 16107, "senior_citizen_disabled": 3704}, "R249": {"_7_day_unlimited": 7459, "_30_day_unlimited": 7196, "senior_citizen_disabled": 907}, "R250": {"_7_day_unlimited": 6911, "_30_day_unlimited": 5496, "senior_citizen_disabled": 800}, "R251": {"_30_day_unlimited": 8274, "_7_day_unlimited": 7019, "senior_citizen_disabled": 2899}, "R252": {"_7_day_unlimited": 7982, "_30_day_unlimited": 4681, "senior_citizen_disabled": 1330}, "R253": {"_7_day_unlimited": 7194, "_30_day_unlimited": 3959, "senior_citizen_disabled": 1084}, "R254": {"_30_day_unlimited": 22161, "_7_day_unlimited": 20468, "senior_citizen_disabled": 3395}, "R255": {"_30_day_unlimited": 4376, "_7_day_unlimited": 3929, "senior_citizen_disabled": 1490}, "R256": {"_7_day_unlimited": 7867, "_30_day_unlimited": 7809, "senior_citizen_disabled": 1500}, "R257": {"_30_day_unlimited": 12507, "_7_day_unlimited": 10112, "senior_citizen_disabled": 5191}, "R258": {"_7_day_unlimited": 10268, "_30_day_unlimited": 10014, "senior_citizen_disabled": 2237}, "R259": {"_30_day_unlimited": 9458, "_7_day_unlimited": 6616, "senior_citizen_disabled": 2606}, "R261": {"_7_day_unlimited": 9591, "_30_day_unlimited": 9515, "senior_citizen_disabled": 2548}, "R262": {"_7_day_unlimited": 3194, "_30_day_unlimited": 2930, "senior_citizen_disabled": 742}, "R263": {"_30_day_unlimited": 2666, "_7_day_unlimited": 2377, "senior_citizen_disabled": 930}, "R264": {"_30_day_unlimited": 3351, "_7_day_unlimited": 2496, "senior_citizen_disabled": 2037}, "R265": {"_30_day_unlimited": 6543, "_7_day_unlimited": 6437, "senior_citizen_disabled": 964}, "R266": {"_7_day_unlimited": 8373, "_30_day_unlimited": 6265, "senior_citizen_disabled": 882}, "R267": {"_7_day_unlimited": 8143, "_30_day_unlimited": 7714, "senior_citizen_disabled": 1864}, "R268": {"_7_day_unlimited": 12590, "_30_day_unlimited": 11309, "senior_citizen_disabled": 1254}, "R269": {"_7_day_unlimited": 8406, "_30_day_unlimited": 6671, "senior_citizen_disabled": 784}, "R270": {"_7_day_unlimited": 4653, "_30_day_unlimited": 3132, "senior_citizen_disabled": 655}, "R271": {"_30_day_unlimited": 1686, "_7_day_unlimited": 1485, "senior_citizen_disabled": 495}, "R272": {"_7_day_unlimited": 10362, "_30_day_unlimited": 8480, "senior_citizen_disabled": 2311}, "R273": {"_7_day_unlimited": 13931, "_30_day_unlimited": 9113, "senior_citizen_disabled": 2010}, "R274": {"_7_day_unlimited": 11684, "_30_day_unlimited": 6648, "senior_citizen_disabled": 2670}, "R275": {"_7_day_unlimited": 9815, "_30_day_unlimited": 3489, "senior_citizen_disabled": 1050}, "R276": {"_30_day_unlimited": 13196, "_7_day_unlimited": 11191, "senior_citizen_disabled": 2265}, "R277": {"_7_day_unlimited": 3274, "_30_day_unlimited": 2491, "airtrain_30_day": 1299}, "R278": {"_7_day_unlimited": 2874, "_30_day_unlimited": 2191, "senior_citizen_disabled": 562}, "R279": {"_7_day_unlimited": 8130, "_30_day_unlimited": 6782, "senior_citizen_disabled": 616}, "R280": {"_30_day_unlimited": 2817, "_7_day_unlimited": 2764, "senior_citizen_disabled": 855}, "R281": {"_7_day_unlimited": 9104, "_30_day_unlimited": 6117, "senior_citizen_disabled": 2105}, "R282": {"_7_day_unlimited": 9298, "_30_day_unlimited": 7676, "senior_citizen_disabled": 1455}, "R283": {"_7_day_unlimited": 3557, "_30_day_unlimited": 2977, "senior_citizen_disabled": 555}, "R284": {"_30_day_unlimited": 4005, "_7_day_unlimited": 3920, "senior_citizen_disabled": 770}, "R285": {"_7_day_unlimited": 5070, "_30_day_unlimited": 2467, "senior_citizen_disabled": 916}, "R286": {"_7_day_unlimited": 5600, "_30_day_unlimited": 4616, "senior_citizen_disabled": 551}, "R287": {"_7_day_unlimited": 4694, "_30_day_unlimited": 3704, "senior_citizen_disabled": 459}, "R288": {"_30_day_unlimited": 7700, "_7_day_unlimited": 5903, "senior_citizen_disabled": 2893}, "R289": {"_30_day_unlimited": 4093, "_7_day_unlimited": 3039, "senior_citizen_disabled": 1650}, "R290": {"_7_day_unlimited": 7761, "_30_day_unlimited": 7007, "senior_citizen_disabled": 2158}, "R291": {"_30_day_unlimited": 5707, "_7_day_unlimited": 5449, "airtrain_30_day": 1782}, "R292": {"_7_day_unlimited": 3081, "_30_day_unlimited": 1887, "senior_citizen_disabled": 492}, "R293": {"_7_day_unlimited": 21697, "_30_day_unlimited": 19595, "senior_citizen_disabled": 8060}, "R294": {"_7_day_unlimited": 6897, "_30_day_unlimited": 5974, "senior_citizen_disabled": 469}, "R295": {"_7_day_unlimited": 5912, "_30_day_unlimited": 3571, "senior_citizen_disabled": 466}, "R296": {"_7_day_unlimited": 5709, "_30_day_unlimited": 3377, "senior_citizen_disabled": 824}, "R297": {"_7_day_unlimited": 5453, "_30_day_unlimited": 3874, "senior_citizen_disabled": 782}, "R298": {"_7_day_unlimited": 7230, "_30_day_unlimited": 6753, "senior_citizen_disabled": 1517}, "R299": {"_7_day_unlimited": 6302, "_30_day_unlimited": 4815, "senior_citizen_disabled": 932}, "R300": {"_7_day_unlimited": 15184, "_30_day_unlimited": 12575, "senior_citizen_disabled": 2594}, "R301": {"_7_day_unlimited": 12643, "_30_day_unlimited": 7520, "senior_citizen_disabled": 1210}, "R302": {"_7_day_unlimited": 10463, "_30_day_unlimited": 8907, "senior_citizen_disabled": 2400}, "R303": {"_7_day_unlimited": 10776, "_30_day_unlimited": 8399, "senior_citizen_disabled": 2187}, "R304": {"_7_day_unlimited": 5153, "_30_day_unlimited": 3696, "senior_citizen_disabled": 915}, "R305": {"_7_day_unlimited": 7101, "_30_day_unlimited": 3509, "senior_citizen_disabled": 1200}, "R306": {"_7_day_unlimited": 4665, "_30_day_unlimited": 3301, "senior_citizen_disabled": 1057}, "R307": {"_7_day_unlimited": 5231, "_30_day_unlimited": 2530, "senior_citizen_disabled": 511}, "R308": {"_7_day_unlimited": 7317, "_30_day_unlimited": 3464, "senior_citizen_disabled": 1060}, "R309": {"_7_day_unlimited": 8431, "_30_day_unlimited": 3675, "senior_citizen_disabled": 918}, "R310": {"_7_day_unlimited": 27796, "_30_day_unlimited": 8453, "senior_citizen_disabled": 1324}, "R311": {"_7_day_unlimited": 3244, "_30_day_unlimited": 2918, "senior_citizen_disabled": 756}, "R312": {"_7_day_unlimited": 3110, "_30_day_unlimited": 2384, "senior_citizen_disabled": 1336}, "R313": {"_7_day_unlimited": 3235, "_30_day_unlimited": 1996, "senior_citizen_disabled": 260}, "R314": {"_30_day_unlimited": 4325, "_7_day_unlimited": 4319, "senior_citizen_disabled": 1372}, "R315": {"_7_day_unlimited": 4231, "_30_day_unlimited": 2068, "senior_citizen_disabled": 968}, "R316": {"_7_day_unlimited": 4095, "_30_day_unlimited": 2334, "senior_citizen_disabled": 361}, "R317": {"_7_day_unlimited": 4050, "_30_day_unlimited": 3557, "senior_citizen_disabled": 706}, "R318": {"_7_day_unlimited": 5714, "_30_day_unlimited": 4884, "senior_citizen_disabled": 552}, "R319": {"_30_day_unlimited": 15917, "_7_day_unlimited": 13323, "senior_citizen_disabled": 4203}, "R320": {"_7_day_unlimited": 3898, "_30_day_unlimited": 2718, "senior_citizen_disabled": 601}, "R321": {"_7_day_unlimited": 5020, "_30_day_unlimited": 4366, "senior_citizen_disabled": 1649}, "R322": {"_7_day_unlimited": 10085, "_30_day_unlimited": 6745, "senior_citizen_disabled": 1378}, "R323": {"_7_day_unlimited": 7910, "_30_day_unlimited": 6688, "senior_citizen_disabled": 1560}, "R324": {"_7_day_unlimited": 11653, "_30_day_unlimited": 8819, "senior_citizen_disabled": 2349}, "R325": {"_7_day_unlimited": 2673, "_30_day_unlimited": 1262, "airtrain_30_day": 347}, "R326": {"_7_day_unlimited": 2986, "_30_day_unlimited": 1532, "senior_citizen_disabled": 446}, "R327": {"_7_day_unlimited": 7511, "_30_day_unlimited": 6737, "senior_citizen_disabled": 1831}, "R328": {"_7_day_unlimited": 6208, "_30_day_unlimited": 2882, "senior_citizen_disabled": 1006}, "R329": {"_30_day_unlimited": 1866, "_7_day_unlimited": 1676, "senior_citizen_disabled": 400}, "R330": {"_30_day_unlimited": 5583, "_7_day_unlimited": 5136, "senior_citizen_disabled": 750}, "R331": {"_7_day_unlimited": 3067, "_30_day_unlimited": 2067, "senior_citizen_disabled": 597}, "R332": {"_7_day_unlimited": 4381, "_30_day_unlimited": 3897, "senior_citizen_disabled": 935}, "R333": {"_7_day_unlimited": 6892, "_30_day_unlimited": 5855, "senior_citizen_disabled": 1045}, "R334": {"_30_day_unlimited": 7051, "_7_day_unlimited": 6859, "senior_citizen_disabled": 1662}, "R335": {"_7_day_unlimited": 2319, "_30_day_unlimited": 1539, "senior_citizen_disabled": 613}, "R336": {"_7_day_unlimited": 1874, "_30_day_unlimited": 1173, "senior_citizen_disabled": 548}, "R337": {"_7_day_unlimited": 731, "_30_day_unlimited": 282, "senior_citizen_disabled": 102}, "R338": {"_7_day_unlimited": 956, "_30_day_unlimited": 577, "senior_citizen_disabled": 349}, "R339": {"_7_day_unlimited": 3317, "_30_day_unlimited": 3088, "senior_citizen_disabled": 849}, "R340": {"_7_day_unlimited": 4418, "_30_day_unlimited": 4107, "senior_citizen_disabled": 864}, "R341": {"_30_day_unlimited": 2753, "_7_day_unlimited": 1983, "senior_citizen_disabled": 1400}, "R342": {"_7_day_unlimited": 7054, "_30_day_unlimited": 4154, "senior_citizen_disabled": 1170}, "R343": {"_7_day_unlimited": 3011, "_30_day_unlimited": 2570, "senior_citizen_disabled": 1090}, "R344": {"_7_day_unlimited": 3610, "_30_day_unlimited": 2219, "senior_citizen_disabled": 888}, "R345": {"_7_day_unlimited": 3491, "_30_day_unlimited": 2743, "senior_citizen_disabled": 949}, "R346": {"_7_day_unlimited": 5498, "_30_day_unlimited": 5062, "senior_citizen_disabled": 790}, "R347": {"_7_day_unlimited": 9778, "_30_day_unlimited": 5386, "senior_citizen_disabled": 1350}, "R348": {"_7_day_unlimited": 1984, "_30_day_unlimited": 1080, "senior_citizen_disabled": 228}, "R349": {"_7_day_unlimited": 4214, "_30_day_unlimited": 2023, "senior_citizen_disabled": 488}, "R350": {"_7_day_unlimited": 3154, "_30_day_unlimited": 1714, "senior_citizen_disabled": 470}, "R352": {"_7_day_unlimited": 3050, "_30_day_unlimited": 2187, "senior_citizen_disabled": 555}, "R353": {"_30_day_unlimited": 4949, "_7_day_unlimited": 4551, "senior_citizen_disabled": 1524}, "R354": {"_7_day_unlimited": 1626, "_30_day_unlimited": 1207, "senior_citizen_disabled": 359}, "R355": {"_7_day_unlimited": 2032, "_30_day_unlimited": 1762, "senior_citizen_disabled": 531}, "R356": {"_7_day_unlimited": 6974, "_30_day_unlimited": 4945, "senior_citizen_disabled": 1305}, "R357": {"_7_day_unlimited": 517, "_30_day_unlimited": 376, "senior_citizen_disabled": 249}, "R358": {"_7_day_unlimited": 1540, "_30_day_unlimited": 844, "senior_citizen_disabled": 360}, "R359": {"_30_day_unlimited": 11311, "_7_day_unlimited": 9412, "senior_citizen_disabled": 1722}, "R360": {"_30_day_unlimited": 1759, "_7_day_unlimited": 1736, "transit_check_metrocard": 193}, "R361": {"_7_day_unlimited": 11236, "_30_day_unlimited": 6026, "senior_citizen_disabled": 1754}, "R362": {"_7_day_unlimited": 7054, "_30_day_unlimited": 3688, "senior_citizen_disabled": 1025}, "R363": {"_7_day_unlimited": 4078, "_30_day_unlimited": 2014, "senior_citizen_disabled": 692}, "R364": {"_7_day_unlimited": 9281, "_30_day_unlimited": 3844, "senior_citizen_disabled": 1237}, "R365": {"_7_day_unlimited": 3874, "_30_day_unlimited": 1877, "senior_citizen_disabled": 543}, "R366": {"_7_day_unlimited": 4935, "_30_day_unlimited": 2311, "senior_citizen_disabled": 602}, "R367": {"_7_day_unlimited": 6215, "_30_day_unlimited": 3051, "senior_citizen_disabled": 1119}, "R368": {"_7_day_unlimited": 5810, "_30_day_unlimited": 5758, "senior_citizen_disabled": 1184}, "R369": {"_7_day_unlimited": 4230, "_30_day_unlimited": 3985, "senior_citizen_disabled": 1246}, "R370": {"_30_day_unlimited": 6117, "_7_day_unlimited": 3999, "senior_citizen_disabled": 1282}, "R371": {"_30_day_unlimited": 7970, "_7_day_unlimited": 4628, "senior_citizen_disabled": 1450}, "R372": {"_30_day_unlimited": 7395, "_7_day_unlimited": 4846, "senior_citizen_disabled": 1965}, "R373": {"_30_day_unlimited": 5623, "_7_day_unlimited": 3818, "senior_citizen_disabled": 1373}, "R374": {"_30_day_unlimited": 9540, "_7_day_unlimited": 5593, "senior_citizen_disabled": 2680}, "R375": {"_7_day_unlimited": 5621, "_30_day_unlimited": 3237, "senior_citizen_disabled": 620}, "R376": {"_7_day_unlimited": 2923, "_30_day_unlimited": 2001, "senior_citizen_disabled": 575}, "R377": {"_7_day_unlimited": 8760, "_30_day_unlimited": 5475, "senior_citizen_disabled": 1940}, "R378": {"_7_day_unlimited": 11459, "_30_day_unlimited": 8014, "senior_citizen_disabled": 1049}, "R379": {"_7_day_unlimited": 6110, "_30_day_unlimited": 4100, "senior_citizen_disabled": 459}, "R380": {"_7_day_unlimited": 7022, "_30_day_unlimited": 4661, "senior_citizen_disabled": 913}, "R381": {"_7_day_unlimited": 6893, "_30_day_unlimited": 4456, "senior_citizen_disabled": 763}, "R382": {"_7_day_unlimited": 5132, "_30_day_unlimited": 3422, "senior_citizen_disabled": 1066}, "R383": {"_7_day_unlimited": 3690, "_30_day_unlimited": 3016, "senior_citizen_disabled": 764}, "R384": {"_7_day_unlimited": 2624, "_30_day_unlimited": 1952, "senior_citizen_disabled": 519}, "R385": {"_7_day_unlimited": 8572, "_30_day_unlimited": 5723, "senior_citizen_disabled": 961}, "R386": {"_7_day_unlimited": 8661, "_30_day_unlimited": 3898, "senior_citizen_disabled": 951}, "R387": {"_7_day_unlimited": 8782, "_30_day_unlimited": 3952, "senior_citizen_disabled": 896}, "R388": {"_7_day_unlimited": 10517, "_30_day_unlimited": 4615, "senior_citizen_disabled": 873}, "R389": {"_7_day_unlimited": 3090, "_30_day_unlimited": 1800, "senior_citizen_disabled": 288}, "R390": {"_30_day_unlimited": 18350, "senior_citizen_disabled": 6911, "_7_day_unlimited": 3850}, "R391": {"_30_day_unlimited": 8668, "_7_day_unlimited": 3529, "senior_citizen_disabled": 1844}, "R392": {"_30_day_unlimited": 7123, "_7_day_unlimited": 4802, "senior_citizen_disabled": 1741}, "R393": {"_30_day_unlimited": 5740, "_7_day_unlimited": 2441, "senior_citizen_disabled": 1243}, "R394": {"_30_day_unlimited": 10485, "_7_day_unlimited": 5450, "senior_citizen_disabled": 2891}, "R395": {"_30_day_unlimited": 7858, "_7_day_unlimited": 4495, "senior_citizen_disabled": 1893}, "R396": {"_30_day_unlimited": 6284, "_7_day_unlimited": 2797, "senior_citizen_disabled": 1189}, "R397": {"_30_day_unlimited": 3178, "_7_day_unlimited": 2592, "senior_citizen_disabled": 1008}, "R398": {"_30_day_unlimited": 6204, "_7_day_unlimited": 4817, "senior_citizen_disabled": 1510}, "R399": {"_30_day_unlimited": 5879, "_7_day_unlimited": 2703, "senior_citizen_disabled": 1248}, "R400": {"_30_day_unlimited": 2982, "_7_day_unlimited": 1639, "senior_citizen_disabled": 916}, "R401": {"_7_day_unlimited": 3556, "_30_day_unlimited": 2850, "senior_citizen_disabled": 363}, "R402": {"_7_day_unlimited": 2822, "_30_day_unlimited": 2138, "senior_citizen_disabled": 424}, "R403": {"_7_day_unlimited": 3807, "_30_day_unlimited": 3340, "senior_citizen_disabled": 698}, "R404": {"_7_day_unlimited": 5681, "_30_day_unlimited": 4814, "senior_citizen_disabled": 1099}, "R405": {"_7_day_unlimited": 5681, "_30_day_unlimited": 2718, "airtrain_30_day": 692}, "R406": {"_7_day_unlimited": 8742, "_30_day_unlimited": 4037, "senior_citizen_disabled": 1021}, "R407": {"_7_day_unlimited": 4117, "_30_day_unlimited": 1750, "airtrain_30_day": 544}, "R408": {"_7_day_unlimited": 11799, "_30_day_unlimited": 4834, "senior_citizen_disabled": 1081}, "R409": {"_7_day_unlimited": 5703, "_30_day_unlimited": 2651, "senior_citizen_disabled": 677}, "R411": {"_7_day_unlimited": 1417, "_30_day_unlimited": 1173, "senior_citizen_disabled": 383}, "R412": {"_7_day_unlimited": 1020, "airtrain_30_day": 854, "_30_day_unlimited": 773}, "R413": {"_7_day_unlimited": 4314, "_30_day_unlimited": 2489, "senior_citizen_disabled": 623}, "R414": {"mail_and_ride_easy_pay_express": 2324, "_7_day_unlimited": 1772, "_30_day_unlimited": 1768}, "R415": {"_30_day_unlimited": 166, "_7_day_unlimited": 157, "senior_citizen_disabled": 44}, "R416": {"_7_day_unlimited": 859, "_30_day_unlimited": 662, "senior_citizen_disabled": 221}, "R417": {"_7_day_unlimited": 586, "_30_day_unlimited": 366, "senior_citizen_disabled": 111}, "R418": {"_7_day_unlimited": 273, "_30_day_unlimited": 203, "senior_citizen_disabled": 79}, "R419": {"_7_day_unlimited": 787, "_30_day_unlimited": 438, "senior_citizen_disabled": 322}, "R420": {"_7_day_unlimited": 3114, "_30_day_unlimited": 2340, "senior_citizen_disabled": 934}, "R421": {"_7_day_unlimited": 1345, "_30_day_unlimited": 942, "senior_citizen_disabled": 561}, "R422": {"_7_day_unlimited": 994, "_30_day_unlimited": 926, "senior_citizen_disabled": 125}, "R423": {"_7_day_unlimited": 2127, "_30_day_unlimited": 1934, "senior_citizen_disabled": 589}, "R424": {"_30_day_unlimited": 1602, "_7_day_unlimited": 1450, "senior_citizen_disabled": 643}, "R425": {"_7_day_unlimited": 1186, "_30_day_unlimited": 1176, "senior_citizen_disabled": 362}, "R426": {"_30_day_unlimited": 926, "senior_citizen_disabled": 669, "_7_day_unlimited": 646}, "R427": {"_7_day_unlimited": 1556, "_30_day_unlimited": 1117, "senior_citizen_disabled": 285}, "R428": {"_7_day_unlimited": 3265, "_30_day_unlimited": 2480, "senior_citizen_disabled": 662}, "R429": {"_7_day_unlimited": 6510, "_30_day_unlimited": 4408, "senior_citizen_disabled": 825}, "R430": {"_30_day_unlimited": 2293, "_7_day_unlimited": 2082, "senior_citizen_disabled": 535}, "R431": {"_7_day_unlimited": 4449, "_30_day_unlimited": 2517, "senior_citizen_disabled": 494}, "R432": {"_7_day_unlimited": 4152, "_30_day_unlimited": 2440, "senior_citizen_disabled": 421}, "R433": {"_7_day_unlimited": 3523, "_30_day_unlimited": 1411, "senior_citizen_disabled": 204}, "R434": {"_7_day_unlimited": 3213, "_30_day_unlimited": 1492, "senior_citizen_disabled": 426}, "R435": {"_7_day_unlimited": 3388, "_30_day_unlimited": 1299, "senior_citizen_disabled": 408}, "R436": {"_7_day_unlimited": 3283, "_30_day_unlimited": 1517, "senior_citizen_disabled": 566}, "R437": {"_7_day_unlimited": 5841, "_30_day_unlimited": 2939, "senior_citizen_disabled": 899}, "R438": {"_7_day_unlimited": 5835, "_30_day_unlimited": 3727, "senior_citizen_disabled": 902}, "R439": {"_7_day_unlimited": 5528, "_30_day_unlimited": 3501, "senior_citizen_disabled": 804}, "R440": {"_7_day_unlimited": 2591, "_30_day_unlimited": 1406, "senior_citizen_disabled": 465}, "R441": {"_7_day_unlimited": 3127, "_30_day_unlimited": 1579, "senior_citizen_disabled": 589}, "R442": {"_7_day_unlimited": 3567, "_30_day_unlimited": 1873, "senior_citizen_disabled": 549}, "R443": {"_7_day_unlimited": 9876, "_30_day_unlimited": 4632, "senior_citizen_disabled": 1167}, "R444": {"_7_day_unlimited": 4489, "_30_day_unlimited": 1960, "senior_citizen_disabled": 585}, "R445": {"_7_day_unlimited": 11821, "_30_day_unlimited": 5275, "senior_citizen_disabled": 1173}, "R446": {"_7_day_unlimited": 9139, "_30_day_unlimited": 3468, "senior_citizen_disabled": 1157}, "R447": {"_7_day_unlimited": 5051, "_30_day_unlimited": 2040, "senior_citizen_disabled": 470}, "R448": {"_7_day_unlimited": 1575, "_30_day_unlimited": 647, "senior_citizen_disabled": 174}, "R449": {"_7_day_unlimited": 7333, "_30_day_unlimited": 3233, "senior_citizen_disabled": 631}, "R450": {"_7_day_unlimited": 4998, "_30_day_unlimited": 2326, "senior_citizen_disabled": 596}, "R451": {"_30_day_unlimited": 6933, "_7_day_unlimited": 5831, "transit_check_metrocard": 1853}, "R452": {"_30_day_unlimited": 31216, "_7_day_unlimited": 30648, "senior_citizen_disabled": 12311}, "R453": {"_7_day_unlimited": 8044, "_30_day_unlimited": 7907, "senior_citizen_disabled": 1853}, "R455": {"_7_day_unlimited": 1021, "_30_day_unlimited": 674, "senior_citizen_disabled": 206}, "R456": {"_7_day_unlimited": 2135, "_30_day_unlimited": 2020, "senior_citizen_disabled": 395}, "R459": {"_7_day_unlimited": 19, "_30_day_unlimited": 9, "senior_citizen_disabled": 8}, "R460": {"_7_day_unlimited": 11856, "_30_day_unlimited": 8286, "senior_citizen_disabled": 2255}, "R461": {"_7_day_unlimited": 17684, "_30_day_unlimited": 14003, "senior_citizen_disabled": 2008}, "R462": {"_7_day_unlimited": 12515, "_30_day_unlimited": 10661, "senior_citizen_disabled": 2174}, "R463": {"_30_day_unlimited": 15404, "_7_day_unlimited": 15158, "senior_citizen_disabled": 6472}, "R464": {"senior_citizen_disabled": 2251, "_7_day_unlimited": 1238, "_30_day_unlimited": 1079}, "R468": {"_7_day_unlimited": 5073, "_30_day_unlimited": 4725, "senior_citizen_disabled": 907}, "R469": {"_7_day_unlimited": 4298, "_30_day_unlimited": 4074, "senior_citizen_disabled": 1333}, "R535": {"mail_and_ride_easy_pay_express": 12786, "mail_and_ride_unlimited": 8398, "path_2_trip": 3360}, "R536": {"mail_and_ride_easy_pay_express": 51371, "mail_and_ride_unlimited": 29500, "path_2_trip": 14489}, "R540": {"transit_check_metrocard_annual_metrocard": 1612, "mail_and_ride_easy_pay_express": 1599, "_1_day_unlimited": 844}, "R541": {"transit_check_metrocard_annual_metrocard": 1624, "mail_and_ride_easy_pay_express": 911, "_1_day_unlimited": 490}, "R542": {"mail_and_ride_easy_pay_express": 232, "transit_check_metrocard_annual_metrocard": 122, "_1_day_unlimited": 94}, "R543": {"mail_and_ride_easy_pay_express": 402, "_1_day_unlimited": 258, "transit_check_metrocard_annual_metrocard": 118}, "R544": {"transit_check_metrocard_annual_metrocard": 705, "mail_and_ride_easy_pay_express": 145, "_1_day_unlimited": 98}, "R545": {"transit_check_metrocard_annual_metrocard": 634, "mail_and_ride_easy_pay_express": 278, "_1_day_unlimited": 149}, "R546": {"mail_and_ride_easy_pay_express": 476, "_1_day_unlimited": 257, "transit_check_metrocard_annual_metrocard": 185}, "R547": {"transit_check_metrocard_annual_metrocard": 226, "mail_and_ride_easy_pay_express": 209, "_1_day_unlimited": 73}, "R548": {"mail_and_ride_easy_pay_express": 221, "transit_check_metrocard_annual_metrocard": 177, "_1_day_unlimited": 118}, "R549": {"transit_check_metrocard_annual_metrocard": 2178, "mail_and_ride_easy_pay_express": 542, "_1_day_unlimited": 230}, "R550": {"transit_check_metrocard_annual_metrocard": 848, "mail_and_ride_easy_pay_express": 645, "_1_day_unlimited": 377}, "R551": {"transit_check_metrocard_annual_metrocard": 1017, "mail_and_ride_easy_pay_express": 656, "_1_day_unlimited": 347}, "R552": {"transit_check_metrocard_annual_metrocard": 2532, "mail_and_ride_easy_pay_express": 663, "_1_day_unlimited": 281}, "R570": {"_30_day_unlimited": 26979, "_7_day_unlimited": 16095, "senior_citizen_disabled": 7880}, "R571": {"_30_day_unlimited": 20282, "_7_day_unlimited": 14351, "senior_citizen_disabled": 6030}, "R572": {"_30_day_unlimited": 15589, "_7_day_unlimited": 12143, "senior_citizen_disabled": 4744}}
+{
+  "R101": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 21630050,
+    "4": 17790817,
+    "5": 1596132,
+    "latitude": 40.703086853027344,
+    "longitude": -74.01299285888672
+  },
+  "R103": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 7287799,
+    "4": 4370157,
+    "5": 452379,
+    "latitude": 40.70751190185547,
+    "longitude": -74.01378631591797
+  },
+  "R106": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4492484,
+    "4": 3715525,
+    "5": 415484,
+    "latitude": 40.71183395385742,
+    "longitude": -74.01219177246094
+  },
+  "R111": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 20736265,
+    "4": 10954423,
+    "5": 2111979,
+    "latitude": 40.70682144165039,
+    "longitude": -74.00910186767578
+  },
+  "R116": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 18283722,
+    "4": 11547556,
+    "5": 2001290,
+    "latitude": 40.715476989746094,
+    "longitude": -74.00926971435547
+  },
+  "R117": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 3922306,
+    "4": 3862645,
+    "5": 367256,
+    "latitude": 40.71931838989258,
+    "longitude": -74.00688934326172
+  },
+  "R119": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10568725,
+    "4": 5467153,
+    "5": 553387,
+    "latitude": 40.72285461425781,
+    "longitude": -74.00627899169922
+  },
+  "R123": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 13275375,
+    "4": 7923037,
+    "5": 1369979,
+    "latitude": 40.72825241088867,
+    "longitude": -74.00536346435547
+  },
+  "R125": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4747971,
+    "4": 2486330,
+    "5": 584629,
+    "latitude": 40.7334213256836,
+    "longitude": -74.0029067993164
+  },
+  "R129": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 11280895,
+    "4": 4394370,
+    "5": 1036796,
+    "latitude": 40.74103927612305,
+    "longitude": -73.99787139892578
+  },
+  "R131": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 25356365,
+    "4": 10580393,
+    "5": 1891753,
+    "latitude": 40.74407958984375,
+    "longitude": -73.99565887451172
+  },
+  "R133": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6044139,
+    "4": 4782364,
+    "5": 639932,
+    "latitude": 40.747215270996094,
+    "longitude": -73.99336242675781
+  },
+  "R135": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 5256739,
+    "4": 4270305,
+    "5": 521002,
+    "latitude": 40.75037384033203,
+    "longitude": -73.99105834960938
+  },
+  "R154": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 8850926,
+    "4": 4863257,
+    "5": 489743,
+    "latitude": 40.76172637939453,
+    "longitude": -73.98384857177734
+  },
+  "R160": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 15810823,
+    "4": 7453888,
+    "5": 1213638,
+    "latitude": 40.77344131469727,
+    "longitude": -73.98220825195312
+  },
+  "R162": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 6013982,
+    "4": 2496400,
+    "5": 278725,
+    "latitude": 40.783935546875,
+    "longitude": -73.97991943359375
+  },
+  "R164": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 18491988,
+    "4": 9406034,
+    "5": 3418906,
+    "latitude": 40.78864288330078,
+    "longitude": -73.9762191772461
+  },
+  "R168": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 36463971,
+    "4": 19182677,
+    "5": 5334069,
+    "latitude": 40.79391860961914,
+    "longitude": -73.97232055664062
+  },
+  "R170": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 102632312,
+    "4": 51170303,
+    "5": 7817161,
+    "latitude": 40.79944610595703,
+    "longitude": -73.96837615966797
+  },
+  "R172": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 9084156,
+    "4": 5526933,
+    "5": 1552840,
+    "latitude": 40.8039665222168,
+    "longitude": -73.96685028076172
+  },
+  "R173": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 8124895,
+    "4": 5381532,
+    "5": 743250,
+    "latitude": 40.80772018432617,
+    "longitude": -73.964111328125
+  },
+  "R174": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10964752,
+    "4": 5224409,
+    "5": 1141543,
+    "latitude": 40.81558227539063,
+    "longitude": -73.9583740234375
+  },
+  "R176": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 24894299,
+    "4": 12827175,
+    "5": 2309950,
+    "latitude": 40.82200622558594,
+    "longitude": -73.95367431640625
+  },
+  "R178": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 26497717,
+    "4": 13460766,
+    "5": 3469477,
+    "latitude": 40.8265495300293,
+    "longitude": -73.95036315917969
+  },
+  "R180": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10350529,
+    "4": 9551637,
+    "5": 1087685,
+    "latitude": 40.83404159545898,
+    "longitude": -73.94489288330078
+  },
+  "R182": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 12510757,
+    "4": 11351149,
+    "5": 968602,
+    "latitude": 40.84071731567383,
+    "longitude": -73.93955993652344
+  },
+  "R183": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 3645944,
+    "4": 2934246,
+    "5": 255503,
+    "latitude": 40.84950637817383,
+    "longitude": -73.93359375
+  },
+  "R185": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 5869438,
+    "4": 4232039,
+    "5": 524061,
+    "latitude": 40.855224609375,
+    "longitude": -73.92941284179688
+  },
+  "R186": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 9164144,
+    "4": 4128599,
+    "5": 1092129,
+    "latitude": 40.86053085327149,
+    "longitude": -73.925537109375
+  },
+  "R188": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 14691563,
+    "4": 10530401,
+    "5": 1174757,
+    "latitude": 40.86462020874024,
+    "longitude": -73.9188232421875
+  },
+  "R190": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 12865662,
+    "4": 6998634,
+    "5": 1480201,
+    "latitude": 40.86944580078125,
+    "longitude": -73.91527557373047
+  },
+  "R192": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 12307295,
+    "4": 6019872,
+    "5": 1645602,
+    "latitude": 40.87456130981445,
+    "longitude": -73.90982818603516
+  },
+  "R194": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 13740610,
+    "4": 7600770,
+    "5": 1072128,
+    "latitude": 40.87885665893555,
+    "longitude": -73.90483093261719
+  },
+  "R196": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 9302180,
+    "4": 6202635,
+    "5": 893365,
+    "latitude": 40.88466644287109,
+    "longitude": -73.90087127685547
+  },
+  "R197": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10702162,
+    "4": 7392698,
+    "5": 690674,
+    "latitude": 40.88924789428711,
+    "longitude": -73.8985824584961
+  },
+  "R201": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 17005423,
+    "4": 11228610,
+    "5": 1562364,
+    "latitude": 40.70481872558594,
+    "longitude": -74.01406860351562
+  },
+  "R203": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 13248159,
+    "4": 5710813,
+    "5": 1033212,
+    "latitude": 40.707557678222656,
+    "longitude": -74.0118637084961
+  },
+  "R215": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 8546985,
+    "4": 5158032,
+    "5": 641834,
+    "latitude": 40.7223014831543,
+    "longitude": -73.99713897705078
+  },
+  "R217": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 7328209,
+    "4": 5861663,
+    "5": 782654,
+    "latitude": 40.72591400146485,
+    "longitude": -73.99465942382812
+  },
+  "R219": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 8543474,
+    "4": 2232627,
+    "5": 1318186,
+    "latitude": 40.73005294799805,
+    "longitude": -73.99107360839844
+  },
+  "R226": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 3175772,
+    "4": 2288859,
+    "5": 345218,
+    "latitude": 40.739864349365234,
+    "longitude": -73.98660278320312
+  },
+  "R228": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 4757217,
+    "4": 3030951,
+    "5": 564220,
+    "latitude": 40.74306869506836,
+    "longitude": -73.98426055908203
+  },
+  "R231": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6696228,
+    "4": 2752746,
+    "5": 631204,
+    "latitude": 40.7460823059082,
+    "longitude": -73.9820785522461
+  },
+  "R238": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 15224920,
+    "4": 7955381,
+    "5": 1013675,
+    "latitude": 40.75177764892578,
+    "longitude": -73.97684478759766
+  },
+  "R246": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4966997,
+    "4": 2076424,
+    "5": 424827,
+    "latitude": 40.76814270019531,
+    "longitude": -73.9638671875
+  },
+  "R247": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1194804,
+    "4": 1019692,
+    "5": 267699,
+    "latitude": 40.77362060546875,
+    "longitude": -73.95987701416016
+  },
+  "R249": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 10988311,
+    "4": 4747552,
+    "5": 830742,
+    "latitude": 40.77949142456055,
+    "longitude": -73.9555892944336
+  },
+  "R251": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 8588186,
+    "4": 4037153,
+    "5": 1184665,
+    "latitude": 40.78567123413086,
+    "longitude": -73.9510726928711
+  },
+  "R252": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6926672,
+    "4": 4771036,
+    "5": 602574,
+    "latitude": 40.79059982299805,
+    "longitude": -73.94747924804688
+  },
+  "R254": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 19217135,
+    "4": 9137694,
+    "5": 1140647,
+    "latitude": 40.795021057128906,
+    "longitude": -73.94425201416016
+  },
+  "R256": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 8517700,
+    "4": 4084489,
+    "5": 625754,
+    "latitude": 40.79862976074219,
+    "longitude": -73.94161987304688
+  },
+  "R258": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 12447775,
+    "4": 5852483,
+    "5": 1046412,
+    "latitude": 40.80413818359375,
+    "longitude": -73.93759155273438
+  },
+  "R259": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 7980749,
+    "4": 2708115,
+    "5": 861121,
+    "latitude": 40.81322479248047,
+    "longitude": -73.92984771728516
+  },
+  "R261": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10387082,
+    "4": 5089157,
+    "5": 808696,
+    "latitude": 40.81837463378906,
+    "longitude": -73.92735290527344
+  },
+  "R283": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4198950,
+    "4": 2838335,
+    "5": 371905,
+    "latitude": 40.83553695678711,
+    "longitude": -73.92140197753906
+  },
+  "R284": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6640850,
+    "4": 2992511,
+    "5": 657884,
+    "latitude": 40.8400764465332,
+    "longitude": -73.91779327392578
+  },
+  "R285": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2709102,
+    "4": 1465891,
+    "5": 307911,
+    "latitude": 40.84443283081055,
+    "longitude": -73.91468811035156
+  },
+  "R286": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4247715,
+    "4": 3756924,
+    "5": 320014,
+    "latitude": 40.848480224609375,
+    "longitude": -73.91179656982422
+  },
+  "R287": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4382832,
+    "4": 2624149,
+    "5": 324577,
+    "latitude": 40.85345458984375,
+    "longitude": -73.90768432617188
+  },
+  "R288": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 11924332,
+    "4": 3479181,
+    "5": 1110875,
+    "latitude": 40.85840606689453,
+    "longitude": -73.90387725830078
+  },
+  "R289": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 5658127,
+    "4": 1695771,
+    "5": 521480,
+    "latitude": 40.8628044128418,
+    "longitude": -73.90103149414062
+  },
+  "R290": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 12131624,
+    "4": 5214208,
+    "5": 1141822,
+    "latitude": 40.86775970458984,
+    "longitude": -73.89717102050781
+  },
+  "R291": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 8361648,
+    "4": 5500022,
+    "5": 728903,
+    "latitude": 40.8734130859375,
+    "longitude": -73.89006042480469
+  },
+  "R293": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Rail Road Unlimited No Trade",
+    "3": 27264751,
+    "4": 16768878,
+    "5": 4024980,
+    "latitude": 40.8797492980957,
+    "longitude": -73.88465881347656
+  },
+  "R294": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 7290843,
+    "4": 4877687,
+    "5": 371271,
+    "latitude": 40.88603591918945,
+    "longitude": -73.87875366210938
+  },
+  "R301": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 8745815,
+    "4": 4721351,
+    "5": 627673,
+    "latitude": 40.799076080322266,
+    "longitude": -73.95182037353516
+  },
+  "R302": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 11493913,
+    "4": 6093659,
+    "5": 1230944,
+    "latitude": 40.80209732055664,
+    "longitude": -73.94962310791016
+  },
+  "R304": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6766794,
+    "4": 3489331,
+    "5": 618421,
+    "latitude": 40.80775451660156,
+    "longitude": -73.94549560546875
+  },
+  "R306": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2700005,
+    "4": 1878607,
+    "5": 277951,
+    "latitude": 40.81422805786133,
+    "longitude": -73.9407730102539
+  },
+  "R308": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 4691963,
+    "4": 2652085,
+    "5": 319805,
+    "latitude": 40.82041931152344,
+    "longitude": -73.93624877929688
+  },
+  "R309": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 5399650,
+    "4": 2650334,
+    "5": 260911,
+    "latitude": 40.82387924194336,
+    "longitude": -73.93647003173828
+  },
+  "R310": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 10399930,
+    "4": 5975575,
+    "5": 430005,
+    "latitude": 40.81610870361328,
+    "longitude": -73.91775512695312
+  },
+  "R312": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1633688,
+    "4": 976839,
+    "5": 403258,
+    "latitude": 40.81649017333984,
+    "longitude": -73.90780639648438
+  },
+  "R314": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 4226243,
+    "4": 2905943,
+    "5": 449193,
+    "latitude": 40.819583892822266,
+    "longitude": -73.90177154541016
+  },
+  "R316": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 1743683,
+    "4": 1468967,
+    "5": 139145,
+    "latitude": 40.82218170166016,
+    "longitude": -73.89673614501953
+  },
+  "R318": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4259424,
+    "4": 2586925,
+    "5": 284887,
+    "latitude": 40.82407379150391,
+    "longitude": -73.89306640625
+  },
+  "R320": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4613506,
+    "4": 2551175,
+    "5": 496912,
+    "latitude": 40.82999420166016,
+    "longitude": -73.8918685913086
+  },
+  "R322": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 9661539,
+    "4": 6450972,
+    "5": 688343,
+    "latitude": 40.83728790283203,
+    "longitude": -73.88773345947266
+  },
+  "R323": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 7411975,
+    "4": 6158238,
+    "5": 641104,
+    "latitude": 40.840293884277344,
+    "longitude": -73.88005065917969
+  },
+  "R325": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1564175,
+    "4": 764822,
+    "5": 77894,
+    "latitude": 40.84189224243164,
+    "longitude": -73.87348937988281
+  },
+  "R326": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1569031,
+    "4": 1346862,
+    "5": 159937,
+    "latitude": 40.84882736206055,
+    "longitude": -73.86845397949219
+  },
+  "R328": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2883213,
+    "4": 2837675,
+    "5": 316153,
+    "latitude": 40.85719299316406,
+    "longitude": -73.86761474609375
+  },
+  "R329": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 1328660,
+    "4": 802794,
+    "5": 178186,
+    "latitude": 40.86546325683594,
+    "longitude": -73.86735534667969
+  },
+  "R330": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 7023844,
+    "4": 3360077,
+    "5": 541185,
+    "latitude": 40.87135696411133,
+    "longitude": -73.8671646118164
+  },
+  "R331": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2158165,
+    "4": 2096694,
+    "5": 188862,
+    "latitude": 40.87784957885742,
+    "longitude": -73.86625671386719
+  },
+  "R332": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 4360806,
+    "4": 3303192,
+    "5": 419271,
+    "latitude": 40.88389587402344,
+    "longitude": -73.86263275146484
+  },
+  "R333": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 6220956,
+    "4": 4482807,
+    "5": 532960,
+    "latitude": 40.88802337646485,
+    "longitude": -73.86034393310547
+  },
+  "R334": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 6733475,
+    "4": 3923390,
+    "5": 503438,
+    "latitude": 40.893192291259766,
+    "longitude": -73.85747528076172
+  },
+  "R335": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1253706,
+    "4": 986148,
+    "5": 145960,
+    "latitude": 40.898380279541016,
+    "longitude": -73.85437774658203
+  },
+  "R336": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1484233,
+    "4": 822888,
+    "5": 154531,
+    "latitude": 40.90312576293945,
+    "longitude": -73.85061645507812
+  },
+  "R401": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 2516429,
+    "4": 1876265,
+    "5": 196314,
+    "latitude": 40.81047439575195,
+    "longitude": -73.92613983154297
+  },
+  "R402": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1924005,
+    "4": 1423852,
+    "5": 123788,
+    "latitude": 40.80756759643555,
+    "longitude": -73.91924285888672
+  },
+  "R404": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 4137676,
+    "4": 2344910,
+    "5": 297650,
+    "latitude": 40.80536651611328,
+    "longitude": -73.9140396118164
+  },
+  "R406": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 6152422,
+    "4": 3174840,
+    "5": 371483,
+    "latitude": 40.808719635009766,
+    "longitude": -73.90765380859375
+  },
+  "R408": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 8212415,
+    "4": 3935522,
+    "5": 387650,
+    "latitude": 40.81211853027344,
+    "longitude": -73.90409851074219
+  },
+  "R412": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 967684,
+    "4": 831727,
+    "5": 108972,
+    "latitude": 40.82094955444336,
+    "longitude": -73.89054870605469
+  },
+  "R413": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2304268,
+    "4": 2230358,
+    "5": 161227,
+    "latitude": 40.8265266418457,
+    "longitude": -73.88628387451172
+  },
+  "R414": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Airtran Full Fare",
+    "3": 1545996,
+    "4": 1406315,
+    "5": 924745,
+    "latitude": 40.82858276367188,
+    "longitude": -73.87915802001953
+  },
+  "R415": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 98548,
+    "4": 66787,
+    "5": 22357,
+    "latitude": 40.82952117919922,
+    "longitude": -73.87451934814453
+  },
+  "R416": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 553350,
+    "4": 544643,
+    "5": 81145,
+    "latitude": 40.83150863647461,
+    "longitude": -73.86761474609375
+  },
+  "R417": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 301798,
+    "4": 266647,
+    "5": 31255,
+    "latitude": 40.83322525024414,
+    "longitude": -73.8608169555664
+  },
+  "R418": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 145539,
+    "4": 94358,
+    "5": 22014,
+    "latitude": 40.83425521850586,
+    "longitude": -73.8512191772461
+  },
+  "R419": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 381419,
+    "4": 360506,
+    "5": 87189,
+    "latitude": 40.83648681640625,
+    "longitude": -73.84703826904297
+  },
+  "R420": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 3017924,
+    "4": 1852337,
+    "5": 363663,
+    "latitude": 40.83989334106445,
+    "longitude": -73.84294891357422
+  },
+  "R421": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 1191803,
+    "4": 824629,
+    "5": 223399,
+    "latitude": 40.84386444091797,
+    "longitude": -73.83631896972656
+  },
+  "R422": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 1078556,
+    "4": 597681,
+    "5": 50246,
+    "latitude": 40.84680938720703,
+    "longitude": -73.83256530761719
+  },
+  "R423": {
+    "0": "30 Day Unlimited",
+    "1": "7 Day Unlimited",
+    "2": "Senior Citizen / Disabled",
+    "3": 2332148,
+    "4": 1240289,
+    "5": 242996,
+    "latitude": 40.85246276855469,
+    "longitude": -73.82811737060547
+  },
+  "R515": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.7750358581543,
+    "longitude": -73.91203308105469
+  },
+  "R516": {
+    "0": "14 Day Unlimited",
+    "1": "Senior Citizen / Disabled",
+    "2": "7 Day ADA Farecard Access System Unlimited",
+    "3": 1,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.74458694458008,
+    "longitude": -73.93099975585938
+  },
+  "R518": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.74378204345703,
+    "longitude": -73.92401885986328
+  },
+  "R519": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.74313354492188,
+    "longitude": -73.9184341430664
+  },
+  "R521": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.74414825439453,
+    "longitude": -73.91255187988281
+  },
+  "R523": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.7456283569336,
+    "longitude": -73.90298461914062
+  },
+  "R524": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.7463264465332,
+    "longitude": -73.89640045166016
+  },
+  "R526": {
+    "0": "7 Day Unlimited",
+    "1": "30 Day Unlimited",
+    "2": "Transit Check Metrocard Annual Metrocard",
+    "3": 1242,
+    "4": 814,
+    "5": 75,
+    "latitude": 40.747657775878906,
+    "longitude": -73.88369750976562
+  },
+  "R528": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.7491455078125,
+    "longitude": -73.8695297241211
+  },
+  "R530": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.751731872558594,
+    "longitude": -73.85533142089844
+  },
+  "R533": {
+    "0": "Senior Citizen / Disabled",
+    "1": "7 Day ADA Farecard Access System Unlimited",
+    "2": "30 Day ADA Farecard Access System Unlimited",
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "latitude": 40.75960159301758,
+    "longitude": -73.83003234863281
+  },
+  "R550": {
+    "0": "Path 2 Trip",
+    "1": "Transit Check Metrocard",
+    "2": "Airtran Full Fare",
+    "3": 824805,
+    "4": 323243,
+    "5": 242258,
+    "latitude": 40.7558822631836,
+    "longitude": -74.00190734863281
+  }
+}
