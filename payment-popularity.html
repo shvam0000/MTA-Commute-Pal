@@ -26,9 +26,12 @@
                 var item = data[key];
                 var latitude = parseFloat(item.latitude);
                 var longitude = parseFloat(item.longitude);
-                var value0 = item[0];
-                var value1 = item[1];
-                var value2 = item[2];
+                var key0 = item[0];
+                var key1 = item[1];
+                var key2 = item[2];
+                var value0 = item[3];
+                var value1 = item[4];
+                var value2 = item[5];
 
                 // Create a marker for each location
                 var marker = new google.maps.Marker({
@@ -40,7 +43,20 @@
                 // Create an InfoWindow for the popup
                 var infoWindow = new google.maps.InfoWindow({
                   content:
-                    '1: ' + value0 + '<br>2: ' + value1 + '<br>3: ' + value2,
+                    '1️⃣ ' +
+                    key0 +
+                    ' : ' +
+                    value0 +
+                    '<br>' +
+                    '2️⃣ ' +
+                    key1 +
+                    ' : ' +
+                    value1 +
+                    '<br>' +
+                    '3️⃣ ' +
+                    key2 +
+                    ' : ' +
+                    value2,
                 });
 
                 // Add a mouseover event listener to the marker to show the InfoWindow on hover
