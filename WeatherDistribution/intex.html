@@ -19,30 +19,30 @@
 
       <label for="timeDropdown">Select Time:</label>
       <select id="timeDropdown">
-        <option value="00:00:00.000">00:00</option>
-        <option value="01:00:00.000">01:00</option>
-        <option value="02:00:00.000">02:00</option>
-        <option value="03:00:00.000">03:00</option>
-        <option value="04:00:00.000">04:00</option>
-        <option value="05:00:00.000">05:00</option>
-        <option value="06:00:00.000">06:00</option>
-        <option value="07:00:00.000">07:00</option>
-        <option value="08:00:00.000">08:00</option>
-        <option value="09:00:00.000" selected>09:00</option>
-        <option value="10:00:00.000">10:00</option>
-        <option value="11:00:00.000">11:00</option>
-        <option value="12:00:00.000">12:00</option>
-        <option value="13:00:00.000">13:00</option>
-        <option value="14:00:00.000">14:00</option>
-        <option value="15:00:00.000">15:00</option>
-        <option value="16:00:00.000">16:00</option>
-        <option value="17:00:00.000">17:00</option>
-        <option value="18:00:00.000">18:00</option>
-        <option value="19:00:00.000">19:00</option>
-        <option value="20:00:00.000">20:00</option>
-        <option value="21:00:00.000">21:00</option>
-        <option value="22:00:00.000">22:00</option>
-        <option value="23:00:00.000">23:00</option>
+        <option value="T00:00:00.000">00:00</option>
+        <option value="T01:00:00.000">01:00</option>
+        <option value="T02:00:00.000">02:00</option>
+        <option value="T03:00:00.000">03:00</option>
+        <option value="T04:00:00.000">04:00</option>
+        <option value="T05:00:00.000">05:00</option>
+        <option value="T06:00:00.000">06:00</option>
+        <option value="T07:00:00.000">07:00</option>
+        <option value="T08:00:00.000">08:00</option>
+        <option value="T09:00:00.000">09:00</option>
+        <option value="T10:00:00.000">10:00</option>
+        <option value="T11:00:00.000">11:00</option>
+        <option value="T12:00:00.000">12:00</option>
+        <option value="T13:00:00.000">13:00</option>
+        <option value="T14:00:00.000">14:00</option>
+        <option value="T15:00:00.000">15:00</option>
+        <option value="T16:00:00.000">16:00</option>
+        <option value="T17:00:00.000">17:00</option>
+        <option value="T18:00:00.000">18:00</option>
+        <option value="T19:00:00.000">19:00</option>
+        <option value="T20:00:00.000">20:00</option>
+        <option value="T21:00:00.000">21:00</option>
+        <option value="T22:00:00.000">22:00</option>
+        <option value="T23:00:00.000">23:00</option>
       </select>
       <button id="fetchTemperature">Get Temperature</button>
       <div
@@ -81,7 +81,7 @@
 
         // Function to update the heatmap
         function updateData(date, time) {
-          const timestamp = date + 'T' + time;
+          const timestamp = date + time;
           fetch(
             'https://data.ny.gov/resource/wujg-7c2s.json?transit_timestamp=' +
               timestamp
